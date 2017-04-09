@@ -3,6 +3,9 @@ package com.daria;
 public class Hell {
 
     public static void main(String[] args) {
-        System.out.println("hello dggg " + args[1]);
+        for (int i = 20; i <= 45 ; i++) {
+            System.out.println(i);
+        }
+        System.out.println("finish");
     }
 }
