@@ -8,7 +8,7 @@ public class Hell {
         int b = 9;
 
         if(a < b) {
-            if(a == b){
+            if(a < b){
                 System.out.println("ololo_true");
             } else{
                 System.out.println("ololo_false");
