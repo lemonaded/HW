@@ -6,4 +6,16 @@ package com.daria;
 public class Heaven {
     private int population;
 
+    public int getPopulation()
+    {
+        return 0;
+    }
+
+    public void setPopulation(int population) {
+        this.population = population;
+    }
+
+
+
+
 }
