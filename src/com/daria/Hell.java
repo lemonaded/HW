@@ -7,7 +7,7 @@ public class Hell {
         int a = 3;
         int b = 5;
 
-        if(a < b) {
+        if(a == b) {
             System.out.println("true");
         } else {
             System.out.println("false");
